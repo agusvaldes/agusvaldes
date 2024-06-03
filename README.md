@@ -24,6 +24,4 @@ I'm a Data Scientist and Data Analyst.
   </a>
 </p>
 
-- Know more about my experiences [About me](https://agustinvaldes-portafolio.web.app/about.html)
-
 - 📫 How to reach me: **agustinvaldes.central@gmail.com**
